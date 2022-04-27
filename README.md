@@ -1,1 +1,1 @@
-https://echange-rate-app-robert.netlify.app/
+https://expense-tracker-robert.netlify.app/
